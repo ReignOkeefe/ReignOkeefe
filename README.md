@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **Python**
 
-- 💬 Ask me about **Html, Css, JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript**
 
 - 📫 How to reach me **Reigncokeefe@live.com**
 
