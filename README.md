@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reignokeefe&label=Profile%20views&color=0e75b6&style=flat" alt="reignokeefe" /> </p>
 
-- 🔭 I’m currently working on **PEER & Flockfysh**
+- 🔭 I’m currently working on **GrowBot & Flockfysh**
 
-- 🌱 I’m currently learning **Python, Bootstrap**
+- 🌱 I’m currently learning **Vue.Js, Bootstrap**
 
 - 👯 I’m looking to collaborate on **Web Dev**
 
-- 🤝 I’m looking for help with **Python**
+- 🤝 I’m looking for help with **Nothing**
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
